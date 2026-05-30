@@ -1,0 +1,21 @@
+{
+  "receipt_id": "20260517",
+  "fecha": "2026-05-17",
+  "comercio": "CAMPLUS TURRO",
+  "categoria": "hospedaje",
+  "items": [
+    {
+      "descripcion": "Rif. 2520 Dal 17/05/2026 al 18/05/2026 Cam.704 (Doppia) 2 adulti in bedEbreakfast",
+      "precio_unitario": 79.29,
+      "total_item": 79.29
+    },
+    {
+      "descripcion": "Dal 18/05/2026 al 19/05/2026 Cam.704 (Doppia) 2 adulti in bedEbreakfast",
+      "precio_unitario": 85.54,
+      "total_item": 85.54
+    }
+  ],
+  "iva": 14.98,
+  "iva_discriminado": true,
+  "total": 164.83
+}

@@ -1,0 +1,21 @@
+{
+  "receipt_id": "20260519",
+  "fecha": "2026-05-19",
+  "comercio": "DM DROGERIE MARKT",
+  "categoria": "farmacia",
+  "items": [
+    {
+      "descripcion": "Mivolis Past.Piantag30pz*",
+      "precio_unitario": 2.99,
+      "total_item": 2.99
+    },
+    {
+      "descripcion": "Vivicot Fazz. Cotone 6pz",
+      "precio_unitario": 1.99,
+      "total_item": 1.99
+    }
+  ],
+  "iva": 0.63,
+  "iva_discriminado": true,
+  "total": 4.98
+}

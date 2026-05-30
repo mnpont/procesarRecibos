@@ -1,0 +1,16 @@
+{
+  "receipt_id": "20260522",
+  "fecha": "2026-05-22",
+  "comercio": "PALEXTRO BISTROT",
+  "categoria": "gastronomia",
+  "items": [
+    {
+      "descripcion": "Italian Breakfast",
+      "precio_unitario": 10.00,
+      "total_item": 10.00
+    }
+  ],
+  "iva": 0.91,
+  "iva_discriminado": true,
+  "total": 10.00
+}

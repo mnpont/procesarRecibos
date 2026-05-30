@@ -1,0 +1,46 @@
+{
+  "receipt_id": "20260520",
+  "fecha": "2026-05-20",
+  "comercio": "SAMPIETRINO",
+  "categoria": "gastronomia",
+  "items": [
+    {
+      "descripcion": "Coperto",
+      "precio_unitario": 2.00,
+      "total_item": 4.00
+    },
+    {
+      "descripcion": "Mozzarella in carrozza",
+      "precio_unitario": 11.00,
+      "total_item": 11.00
+    },
+    {
+      "descripcion": "Acqua naturale",
+      "precio_unitario": 2.50,
+      "total_item": 2.50
+    },
+    {
+      "descripcion": "Aperol spritz",
+      "precio_unitario": 8.00,
+      "total_item": 8.00
+    },
+    {
+      "descripcion": "Caffè",
+      "precio_unitario": 1.50,
+      "total_item": 1.50
+    },
+    {
+      "descripcion": "Carbonara",
+      "precio_unitario": 13.00,
+      "total_item": 26.00
+    },
+    {
+      "descripcion": "Coca cola zero",
+      "precio_unitario": 4.00,
+      "total_item": 4.00
+    }
+  ],
+  "iva": null,
+  "iva_discriminado": false,
+  "total": 57.00
+}

@@ -1,0 +1,21 @@
+{
+  "receipt_id": "20260518",
+  "fecha": "2026-05-18",
+  "comercio": "STARBUCKS",
+  "categoria": "gastronomia",
+  "items": [
+    {
+      "descripcion": "Ube Match Cloud Full Fat Milk",
+      "precio_unitario": 8.00,
+      "total_item": 8.00
+    },
+    {
+      "descripcion": "Yuzu Thyme Espresso Tonic Special Prep INDONESIA",
+      "precio_unitario": 10.00,
+      "total_item": 10.00
+    }
+  ],
+  "iva": 1.64,
+  "iva_discriminado": true,
+  "total": 18.00
+}

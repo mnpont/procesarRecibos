@@ -1,0 +1,26 @@
+{
+  "receipt_id": "20260519",
+  "fecha": "2026-05-19",
+  "comercio": "ALICE PIZZA",
+  "categoria": "gastronomia",
+  "items": [
+    {
+      "descripcion": "CACIO E PEPE",
+      "precio_unitario": 23.80,
+      "total_item": 3.95
+    },
+    {
+      "descripcion": "CARBONARA",
+      "precio_unitario": 27.21,
+      "total_item": 3.75
+    },
+    {
+      "descripcion": "POMODORINI E STRACCI",
+      "precio_unitario": 22.75,
+      "total_item": 4.41
+    }
+  ],
+  "iva": 1.10,
+  "iva_discriminado": true,
+  "total": 12.11
+}

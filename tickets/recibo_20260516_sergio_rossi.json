@@ -1,0 +1,21 @@
+{
+  "receipt_id": "20260516",
+  "fecha": "2026-05-16",
+  "comercio": "SERGIO ROSSI",
+  "categoria": "indumentaria",
+  "items": [
+    {
+      "descripcion": "SOFT CALFSKIN SLIPPER 37",
+      "precio_unitario": 695.00,
+      "total_item": 695.00
+    },
+    {
+      "descripcion": "NAPLYS BRIGHT SKIN 37",
+      "precio_unitario": 595.00,
+      "total_item": 595.00
+    }
+  ],
+  "iva": 232.62,
+  "iva_discriminado": true,
+  "total": 1290.00
+}

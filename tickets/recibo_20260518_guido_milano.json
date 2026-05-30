@@ -1,0 +1,41 @@
+{
+  "receipt_id": "20260518",
+  "fecha": "2026-05-18",
+  "comercio": "GUIDO MILANO",
+  "categoria": "gastronomia",
+  "items": [
+    {
+      "descripcion": "COPERTO",
+      "precio_unitario": 4.00,
+      "total_item": 8.00
+    },
+    {
+      "descripcion": "ACQUA NATURALE",
+      "precio_unitario": 3.50,
+      "total_item": 3.50
+    },
+    {
+      "descripcion": "PAPPARDELLE",
+      "precio_unitario": 20.00,
+      "total_item": 20.00
+    },
+    {
+      "descripcion": "PATATE AL FORNO",
+      "precio_unitario": 8.00,
+      "total_item": 8.00
+    },
+    {
+      "descripcion": "COCKTAIL",
+      "precio_unitario": 12.00,
+      "total_item": 12.00
+    },
+    {
+      "descripcion": "SPAGHETTONE QUADRATO",
+      "precio_unitario": 20.00,
+      "total_item": 20.00
+    }
+  ],
+  "iva": null,
+  "iva_discriminado": false,
+  "total": 71.50
+}

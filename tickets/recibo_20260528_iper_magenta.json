@@ -1,0 +1,36 @@
+{
+  "receipt_id": "20260528",
+  "fecha": "2026-05-28",
+  "comercio": "IPER MAGENTA",
+  "categoria": "supermercado",
+  "items": [
+    {
+      "descripcion": "NESCAFE'RED CUP CREM",
+      "precio_unitario": 3.75,
+      "total_item": 3.75
+    },
+    {
+      "descripcion": "SHOPPER 30X60 INATEC",
+      "precio_unitario": 0.10,
+      "total_item": 0.10
+    },
+    {
+      "descripcion": "TONNO E/V.LEGGERO RI",
+      "precio_unitario": 5.99,
+      "total_item": 5.99
+    },
+    {
+      "descripcion": "TONNO E/V.LEGGERO RI",
+      "precio_unitario": 5.99,
+      "total_item": 5.99
+    },
+    {
+      "descripcion": "ANANAS CUBETTI DEL M",
+      "precio_unitario": 1.75,
+      "total_item": 1.75
+    }
+  ],
+  "iva": 1.52,
+  "iva_discriminado": true,
+  "total": 17.58
+}

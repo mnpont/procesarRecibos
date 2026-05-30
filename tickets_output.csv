@@ -1,0 +1,36 @@
+﻿receipt_id,fecha,comercio,categoria,descripcion,precio_unitario,total_item,iva,iva_discriminado,total_ticket
+00001,2026-05-16,SERGIO ROSSI,indumentaria,SOFT CALFSKIN SLIPPER 37,695.0,695.0,232.62,True,1290.0
+00001,2026-05-16,SERGIO ROSSI,indumentaria,NAPLYS BRIGHT SKIN 37,595.0,595.0,232.62,True,1290.0
+00002,2026-05-17,RADICI,gastronomia,Pane servizio e sorrisoni,1.0,2.0,4.18,True,46.0
+00002,2026-05-17,RADICI,gastronomia,Acqua 75cl,2.0,2.0,4.18,True,46.0
+00002,2026-05-17,RADICI,gastronomia,Bruschetta pomodoro e ricotta forte,7.0,7.0,4.18,True,46.0
+00002,2026-05-17,RADICI,gastronomia,Asparagi,14.0,28.0,4.18,True,46.0
+00002,2026-05-17,RADICI,gastronomia,HUMMUS,7.0,7.0,4.18,True,46.0
+00003,2026-05-17,CAMPLUS TURRO,hospedaje,Rif. 2520 Dal 17/05/2026 al 18/05/2026 Cam.704 (Doppia) 2 adulti in bedEbreakfast,79.29,79.29,14.98,True,164.83
+00003,2026-05-17,CAMPLUS TURRO,hospedaje,Dal 18/05/2026 al 19/05/2026 Cam.704 (Doppia) 2 adulti in bedEbreakfast,85.54,85.54,14.98,True,164.83
+00004,2026-05-18,STARBUCKS,gastronomia,Ube Match Cloud Full Fat Milk,8.0,8.0,1.64,True,18.0
+00004,2026-05-18,STARBUCKS,gastronomia,Yuzu Thyme Espresso Tonic Special Prep INDONESIA,10.0,10.0,1.64,True,18.0
+00005,2026-05-18,GUIDO MILANO,gastronomia,COPERTO,4.0,8.0,,False,71.5
+00005,2026-05-18,GUIDO MILANO,gastronomia,ACQUA NATURALE,3.5,3.5,,False,71.5
+00005,2026-05-18,GUIDO MILANO,gastronomia,PAPPARDELLE,20.0,20.0,,False,71.5
+00005,2026-05-18,GUIDO MILANO,gastronomia,PATATE AL FORNO,8.0,8.0,,False,71.5
+00005,2026-05-18,GUIDO MILANO,gastronomia,COCKTAIL,12.0,12.0,,False,71.5
+00005,2026-05-18,GUIDO MILANO,gastronomia,SPAGHETTONE QUADRATO,20.0,20.0,,False,71.5
+00006,2026-05-19,DM DROGERIE MARKT,farmacia,Mivolis Past.Piantag30pz*,2.99,2.99,0.63,True,4.98
+00006,2026-05-19,DM DROGERIE MARKT,farmacia,Vivicot Fazz. Cotone 6pz,1.99,1.99,0.63,True,4.98
+00007,2026-05-19,ALICE PIZZA,gastronomia,CACIO E PEPE,23.8,3.95,1.1,True,12.11
+00007,2026-05-19,ALICE PIZZA,gastronomia,CARBONARA,27.21,3.75,1.1,True,12.11
+00007,2026-05-19,ALICE PIZZA,gastronomia,POMODORINI E STRACCI,22.75,4.41,1.1,True,12.11
+00008,2026-05-20,SAMPIETRINO,gastronomia,Coperto,2.0,4.0,,False,57.0
+00008,2026-05-20,SAMPIETRINO,gastronomia,Mozzarella in carrozza,11.0,11.0,,False,57.0
+00008,2026-05-20,SAMPIETRINO,gastronomia,Acqua naturale,2.5,2.5,,False,57.0
+00008,2026-05-20,SAMPIETRINO,gastronomia,Aperol spritz,8.0,8.0,,False,57.0
+00008,2026-05-20,SAMPIETRINO,gastronomia,Caffè,1.5,1.5,,False,57.0
+00008,2026-05-20,SAMPIETRINO,gastronomia,Carbonara,13.0,26.0,,False,57.0
+00008,2026-05-20,SAMPIETRINO,gastronomia,Coca cola zero,4.0,4.0,,False,57.0
+00009,2026-05-22,PALEXTRO BISTROT,gastronomia,Italian Breakfast,10.0,10.0,0.91,True,10.0
+00010,2026-05-28,IPER MAGENTA,supermercado,NESCAFE'RED CUP CREM,3.75,3.75,1.52,True,17.58
+00010,2026-05-28,IPER MAGENTA,supermercado,SHOPPER 30X60 INATEC,0.1,0.1,1.52,True,17.58
+00010,2026-05-28,IPER MAGENTA,supermercado,TONNO E/V.LEGGERO RI,5.99,5.99,1.52,True,17.58
+00010,2026-05-28,IPER MAGENTA,supermercado,TONNO E/V.LEGGERO RI,5.99,5.99,1.52,True,17.58
+00010,2026-05-28,IPER MAGENTA,supermercado,ANANAS CUBETTI DEL M,1.75,1.75,1.52,True,17.58

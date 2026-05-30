@@ -1,0 +1,36 @@
+{
+  "receipt_id": "20260517",
+  "fecha": "2026-05-17",
+  "comercio": "RADICI",
+  "categoria": "gastronomia",
+  "items": [
+    {
+      "descripcion": "Pane servizio e sorrisoni",
+      "precio_unitario": 1.00,
+      "total_item": 2.00
+    },
+    {
+      "descripcion": "Acqua 75cl",
+      "precio_unitario": 2.00,
+      "total_item": 2.00
+    },
+    {
+      "descripcion": "Bruschetta pomodoro e ricotta forte",
+      "precio_unitario": 7.00,
+      "total_item": 7.00
+    },
+    {
+      "descripcion": "Asparagi",
+      "precio_unitario": 14.00,
+      "total_item": 28.00
+    },
+    {
+      "descripcion": "HUMMUS",
+      "precio_unitario": 7.00,
+      "total_item": 7.00
+    }
+  ],
+  "iva": 4.18,
+  "iva_discriminado": true,
+  "total": 46.00
+}
